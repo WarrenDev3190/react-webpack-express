@@ -1,8 +1,14 @@
 react-webpack-express
 =====================
 
-Boilerplate to start developing npm react components with webpack. Includes flux as npm module.
+This is an unofficial update to the fantastic react-webpack-express boilerplate created by mixxen.
+It now utilizes ES6, React Router, React Bootstrap, Alt, and Sass in addition to Express and Webpack. 
 
+
+TODO
+====
+Isomorphic Rendering 
+Webpack-Hot-Module-Replacement
 
 Usage
 =====
