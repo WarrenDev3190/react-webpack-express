@@ -7,7 +7,7 @@ It now utilizes ES6, React Router, React Bootstrap, Alt, and Sass in addition to
 
 TODO
 ====
-Isomorphic Rendering 
+Isomorphic Rendering,
 Webpack-Hot-Module-Replacement
 
 Usage
